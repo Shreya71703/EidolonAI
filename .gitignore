@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
+
+# Eidolon specific
+.eidolon/
+agent_data/
+local_memory/
+
+# API Keys
+.env.local
+config/secrets.yaml
+
+# Build
+dist/
+build/
+*.egg-info/
