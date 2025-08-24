@@ -20,3 +20,5 @@ An AI agent project built with Eidolon AI framework - the industry's first AI Ag
 
 1. Clone this repository:
 ```bash
+git clone https://github.com/Shreya71703/EidolonAI.git
+cd EidolonAI
